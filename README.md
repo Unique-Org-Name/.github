@@ -1,4 +1,4 @@
-# The Python Yogurt Yappy Zynx Team (Pyzz for short)
+# The Python Yogurt Yappy Zynx Team (Pyyz for short)
 
 We are a development team mainly for coding random stuff.
 
